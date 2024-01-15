@@ -12,11 +12,17 @@ Counterintuitive Point: The 386DX version of the processor did not integrate a m
 
 Translate:
 
+1. integrate 融合 2. coprocessor 协处理器 3. label 标签 4. external 外部
+5. advanced 高级 6. floating-point 浮点数 
+
 Multitasking in Protected Mode:
 
 Counterintuitive Point: The 386 introduced protected mode for multitasking and memory protection, a significant advancement. However, the concept of multitasking and protected mode might have been somewhat counterintuitive at the time, as earlier x86 processors primarily operated in a simpler real mode without these features.
 
 Translate:
+
+1. multitaske 多模块 2. counterintuitive 反直觉
+3. primarily 主要
 
 Virtual 8086 Mode:
 
@@ -24,4 +30,6 @@ Counterintuitive Point: The introduction of virtual 8086 mode allowed the 386 to
 
 Translate:
 
+1. emulating 仿真
+2. compatibility 兼容性
 
