@@ -4,6 +4,8 @@ Counterintuitive Point: Despite being a 32-bit processor, the 386 maintained com
 
 Translate:
 
+1. Despite 尽管 2. maintained 维持  3. compatibility 兼容性 4. coexistence 共存 
+
 Math Coprocessor (387):
 
 Counterintuitive Point: The 386DX version of the processor did not integrate a math coprocessor (387). While one might expect a processor labeled as 32-bit to include such functionality, the 386DX required an external 387 math coprocessor for advanced floating-point calculations.
